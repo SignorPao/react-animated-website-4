@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-animated-website-4/static/css/main.639b2649.css",
+    "main.js": "/react-animated-website-4/static/js/main.808d3124.js",
+    "static/media/support.jpg": "/react-animated-website-4/static/media/support.13dffa5bdb3a671bcb5b.jpg",
+    "static/media/cyber-bg.png": "/react-animated-website-4/static/media/cyber-bg.44527257ee32d74ae878.png",
+    "index.html": "/react-animated-website-4/index.html",
+    "main.639b2649.css.map": "/react-animated-website-4/static/css/main.639b2649.css.map",
+    "main.808d3124.js.map": "/react-animated-website-4/static/js/main.808d3124.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.639b2649.css",
+    "static/js/main.808d3124.js"
+  ]
+}
